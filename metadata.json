@@ -1,0 +1,8 @@
+{
+  "name": "Decodificador de Pareja",
+  "description": "El traductor oficial e institucional de indirectas de pareja. Decodifica lo que realmente te quisieron decir y obtén planes de acción empáticos con humor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
